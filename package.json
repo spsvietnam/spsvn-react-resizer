@@ -22,7 +22,7 @@
     "fast-test": "mocha"
   },
   "peerDependencies": {
-    "react": "^0.14.8 || ^15 || 16^"
+    "react": "^0.14.8 || ^15 || ^16 || ^17 || ^18"
   },
   "repository": {
     "type": "git",
